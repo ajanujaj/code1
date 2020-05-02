@@ -15,3 +15,4 @@ def fun():
     print(lst1)
             
 fun()
+    
